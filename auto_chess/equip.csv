@@ -1,0 +1,131 @@
+﻿变量名,name,showInHandBook,weight,cardEffect,resScale,filterTarget,price,hp,attack,rarity,res,defence,pvpShowInHandBook,resPos,findBuff,keyWords
+默认值,"""""",FALSE,0,"""""",5,"""true""",1,0,0,1,config/item/xddj/icon_csddx.png,0,FALSE,{x=0;y=0},<>,<>
+ID,装备名称,是否显示在图鉴,权重(商店出现概率),效果描述,资源缩放,筛选条件,价格(金币),生命加成,攻击加成,稀有度(1-5),资源路径,护甲加成,PVP是否显示在图鉴,资源偏移{x;y},发现Buff<buffID>,关键词<词>
+100001,Leftovers,TRUE,40,"After acting, 【Heal】 10 damage from self",,"""true""",5,5,,4,config/item/xddj/icon_csddx.png,,,,<100111>,<【Heal】>
+100002,Hard Stone,TRUE,60,【Fortified Armor】,,"""true""",4,,,3,config/item/xddj/icon_yst.png,1,,,<100211>,<【Fortified Armor】>
+100003,Punching Glove,TRUE,40,"When attacking a target with lower Attack than you, take no counter damage",,"""true""",5,,5,4,config/item/xddj/icon_thqt.png,,,,<100311>,
+100004,Gold Teeth,TRUE,60,【Near Death】: Gain 1 gold,,"""true""",4,,,3,config/item/xddj/icon_jjy.png,,,,<100411>,<【Near Death】>
+100005,Adamant Orb,TRUE,100,,,"""true""",2,8,,,config/item/xddj/icon_bjbz.png,,,,,
+100006,Dubious Disc,TRUE,100,,,"""true""",2,,8,,config/item/xddj/icon_kybd.png,,,,,
+100007,Prism Scale,TRUE,100,,,"""true""",2,,,,config/item/xddj/icon_mllp.png,8,,,,
+100008,Whipped Dream,TRUE,80,"At battle start, 【Stun】 self",,"""true""",3,,,2,config/item/xddj/icon_pfny.png,12,,,<100811>,<【Stun】>
+100009,Power Bracer,TRUE,80,"Before acting, +2 Attack",,"""true""",3,,4,2,config/item/xddj/icon_llhw.png,,,,<100911>,
+100010,Reaper Cloth,TRUE,80,【Stealth】,,"""true""",3,,,2,config/item/xddj/icon_ljzb.png,,,,<101011>,<【Stealth】>
+100011,Quick Claw,TRUE,80,"Before being attacked, +3 Attack",,"""true""",3,,,2,config/item/xddj/icon_xzzz.png,,,,<101111>,
+100012,Scope Lens,TRUE,80,【Critical Hit】,,"""true""",3,,,2,config/item/xddj/icon_jdj.png,,,,<101211>,<【Critical Hit】>
+100013,Magmarizer,TRUE,60,Gain 【Critical Hit】; it is not removed after attacking,,"""true""",4,,2,3,config/item/xddj/icon_ryzfq.png,,,,<101311>,<【Critical Hit】>
+100014,King's Rock,TRUE,60,"After attacking, 【Stun】 the target",,"""true""",4,2,2,3,config/item/xddj/icon_wzzz2.png,,,,<101411>,<【Stun】>
+100015,Mental Herb,TRUE,60,"When 【Stun】 is applied, remove it",,"""true""",4,4,,3,config/item/xddj/icon_xlxc.png,,,,<101511>,<【Stun】>
+100016,Black Belt,TRUE,60,Treat the enemy with the highest Armor Shred as 【Rival】,,"""true""",4,,4,3,config/item/xddj/icon_qshd.png,,,,<101611>,<【Rival】>
+100017,Rusted Sword,TRUE,20,"+1 action per round\nBefore acting, +3 Attack and +3 HP",,"""true""",6,,10,5,config/item/xddj/icon_bxzj.png,,,,<101711>,
+100018,Rusted Shield,TRUE,20,【Shield】\n【Guard】\n【Shield Counter】,,"""true""",6,,,5,config/item/xddj/icon_bxzd.png,10,,,<101811>,<【Shield】;【Guard】;【Shield Counter】>
+100019,Poke Flute,TRUE,20,"【Special Technique】: Halve your Attack; 【Stun】 a random enemy, then deal 5 skill damage to all 【Stun】ned enemies",,"""true""",6,,,5,config/item/xddj/icon_bkmzd.png,,,,<101911>,<【Special Technique】;【Stun】>
+100020,Power Bracelet,TRUE,20,"When attacking a 【Stun】ned target, take no counter damage",,"""true""",6,,6,5,config/item/xddj/icon_qlsh.png,,,,<102011>,<【Stun】>
+100021,Dynamax Band,TRUE,20,Attack and HP are doubled,,"""true""",6,,,5,config/item/xddj/icon_jjwd.png,,,,<102111>,
+100022,Professor's Mask,TRUE,40,Immune to 【Stun】 and 【Destroy】,,"""true""",5,12,,4,config/item/xddj/icon_bsdmz.png,,,,<102211>,<【Stun】;【Destroy】>
+100023,Choice Specs,TRUE,60,Treat the nearest enemy as 【Rival】,,"""true""",4,,4,3,config/item/xddj/icon_jjyj.png,,,,<102311>,<【Rival】>
+100024,Treasure Sensor,TRUE,20,【On Defeat】: Gain 1 random event card (max 10 triggers),,"""true""",6,4,4,5,config/item/xddj/icon_tbq.png,,,,<102411>,<【On Defeat】>
+100025,Metal Coat,TRUE,40,"【Guard】\nAt prep phase end, permanently gain +3 Armor",,"""true""",5,,,4,config/item/xddj/icon_jsm.png,6,,,<102511>,<【Guard】>
+100026,Bulb,TRUE,80,"At prep phase end, permanently gain +1 HP",,"""true""",3,4,,2,config/item/xddj/icon_qg.png,,,,<102611>,
+100027,Spell Tag,TRUE,40,【Phantom】\n【Near Death】: A random enemy gains this item's effect,,"""true""",5,,10,4,config/item/xddj/icon_zzzf.png,,,,<102711>,<【Phantom】;【Near Death】>
+100028,Mystic Water,TRUE,40,"After attacking, if you took no HP loss, +8 HP",,"""true""",5,,,4,config/item/xddj/icon_xzsd.png,,,,<102811>,
+100029,Swift Bell,TRUE,20,【Rally】: Self gains 1 action,,"""true""",6,8,,5,config/item/xddj/icon_gjld.png,,,,<102911>,<【Rally】>
+100030,Sturdy Bell,TRUE,20,【Rally】: Self gains +8 Armor\n【Fortified Armor】,,"""true""",6,,,5,config/item/xddj/icon_fyld.png,8,,,<103011>,<【Rally】>
+100031,Bond Bell,TRUE,20,【Rally】: Self and attacker gain +5 HP,,"""true""",6,,8,5,config/item/xddj/icon_kzld.png,,,,<103111>,<【Rally】>
+100032,Primordial Stone,TRUE,80,【Near Death】: Deal 10 skill damage to a random enemy,,"""true""",3,,3,2,config/item/xddj/icon_hyzs.png,,,,<103211>,<【Near Death】>
+100033,Focus Band,TRUE,40,"When knocked out, 【Summon】 a copy of self",,"""true""",5,3,3,4,config/item/xddj/icon_qstj.png,,,,<103311>,<【Summon】>
+100034,Jewel Bracelet,TRUE,20,【Special Technique】: Halve your Attack; deal 5 skill damage to a random enemy and gain 1 gold,,"""true""",6,,,5,config/item/xddj/icon_bssz.png,,,,<103411>,<【Special Technique】>
+100035,Power Band,TRUE,20,"Before acting, 【Destroy】 one random allied unit and gain all its stats",,"""true""",6,3,3,5,config/item/xddj/icon_gnhw.png,,,,<103511>,<【Destroy】>
+100036,Full Incense,TRUE,40,"After attacking, if you took no HP loss, +8 Armor",,"""true""",5,,,4,config/item/xddj/icon_bfxx.png,5,,,<103611>,
+100037,Choice Band,TRUE,60,Treat the leftmost enemy as 【Rival】,,"""true""",4,,3,3,config/item/xddj/icon_jjtj.png,,,,<103711>,<【Rival】>
+100038,Soft Sand,TRUE,40,"Before being attacked, reduce the attacker's Attack by 5",,"""true""",5,,,4,config/item/xddj/icon_rrsz.png,5,,,<103811>,
+100039,Silk Scarf,TRUE,40,【On Defeat】: Return the holder to hand,,"""true""",5,,,4,config/item/xddj/icon_jjwj.png,,,,<103911>,<【On Defeat】>
+100040,Dragon Fang,TRUE,40,【Splash】,,"""true""",5,,6,4,config/item/xddj/icon_ly.png,,,,<104011>,<【Splash】>
+100041,Power Belt,TRUE,60,"At battle start, 【Stun】 self; when 【Stun】 ends, gain 【Critical Hit】 and 【Cleave】",,"""true""",4,,6,3,config/item/xddj/icon_llfz.png,,,,<104111>,<【Stun】;【Critical Hit】;【Cleave】>
+100042,Odd Incense,TRUE,40,【Special Technique】: Halve your Attack; inflict 【Toxic】 on a random enemy,,"""true""",5,4,,4,config/item/xddj/icon_qyxx.png,4,,,<104211>,<【Special Technique】;【Poison】;【Toxic】>
+100043,Vanishing Crown,TRUE,20,【First Strike】/【Near Death】: All allied Pokémon gain 【Stealth】,,"""true""",6,10,,5,config/item/xddj/icon_smwg.png,,,,<104311>,<【First Strike】;【Near Death】;【Stealth】>
+100044,Ghost Hand Gloves,TRUE,20,"While 【Stealth】 is active, gain 【Ambush】\n【On Kill】: Gain 【Stealth】",,"""true""",6,,10,5,config/item/xddj/icon_mxd.png,,,,<104411>,<【Stealth】;【Ambush】;【On Kill】>
+100045,Mask of Pain,TRUE,20,【Special Technique】: Halve your Attack; deal 1 【Armor Shred】 to all units\n【Aura】: 【Armor Shred】 on the field is not cleared automatically,,"""true""",6,,,5,config/item/xddj/icon_tkmj.png,10,,,<104511>,<【Special Technique】;【Aura】;【Armor Shred】>
+100046,Chaos Magicube,TRUE,20,【Special Technique】: Deal 100 skill damage to self and a random enemy,,"""true""",6,,,5,config/item/xddj/icon_zzmq.png,,,,<104611>,<【Special Technique】>
+100047,Focus Sash,TRUE,40,"When knocked out, 【Summon】 a 1-star copy of self",,"""true""",4,3,3,3,config/item/xddj/icon_qspd.png,,,,<104711>,<【Summon】>
+100048,Solar Flute,TRUE,20,"Before acting, gain Armor equal to your current HP and split it evenly among allied Pokémon",,"""true""",6,6,,5,config/item/xddj/icon_sejlo.png,6,,,<104811>,
+100049,Lunar Flute,TRUE,20,【Special Technique】: Steal 5 Attack and 5 HP from a random enemy,,"""true""",6,,6,5,config/item/xddj/icon_lnyl.png,6,,,<104911>,<【Special Technique】>
+100050,Gracidea Flower,TRUE,20,Holder's Attack always equals its HP,,"""true""",6,10,,5,config/item/xddj/icon_glxdyh.png,,,,<105011>,
+100051,Gold Belt,TRUE,60,【On Victory】: Permanently +5 Attack and +5 HP\n【On Defeat】: Permanently -10 Attack and -10 HP,,"""true""",4,3,3,3,config/item/xddj/icon_jjy.png,,,,<105111>,<【On Victory】;【On Defeat】>
+100052,Mystery Necklace,TRUE,20,【First Strike】: Trigger 【On Play】 once for an adjacent Pokémon,,"""true""",6,5,5,5,config/item/xddj/icon_smxl.png,,,,<105211>,<【First Strike】;【On Play】>
+100053,Reveal Glass,TRUE,60,【Near Death】: Clear all positive 【Status】 from the damage source,,"""true""",4,,4,3,config/item/xddj/icon_xxj.png,2,,,<105311>,<【Near Death】;【Status】>
+100054,Salty Fish Spine,TRUE,20,"During battle, when other Pokémon enter, they gain +N Attack (N = holder's Attack)",,"""true""",6,4,6,5,config/item/xddj/icon_xylc.png,,,,<105411>,
+100055,Lustrous Orb,TRUE,80,"【Flow】\nWhen you trigger or are affected by 【Flow】, permanently +1 HP",,"""true""",3,2,4,2,config/item/xddj/icon_bybz.png,,,,<105511>,<【Flow】>
+100056,Safety Goggles,TRUE,20,Immune to negative 【Status】,,"""true""",6,3,3,5,config/item/xddj/icon_fchmj.png,,,,<105611>,<【Status】>
+100057,Blazing Claw,TRUE,40,"【Critical Hit】\nWhile 【Critical Hit】 is active, gain 【Ambush】",,"""true""",5,3,5,4,config/item/xddj/icon_lyzz.png,,,,<105711>,<【Critical Hit】;【Ambush】>
+100058,Flame Orb,TRUE,20,"Before attacking, deal skill damage to the target equal to your Attack",,"""true""",6,2,6,5,config/item/xddj/icon_hybz.png,,,,<105811>,
+100059,Samurai Helmet,TRUE,40,【On Kill】: +N Armor (N = target's max HP),,"""true""",5,,5,4,config/item/xddj/icon_wstk.png,3,,,<105911>,<【On Kill】>
+100060,Ingenious Soul Core,TRUE,20,"After being attacked at full HP, +20 Armor and gain 1 action",,"""true""",6,5,,5,config/item/xddj/icon_mjyn.png,5,,,<106011>,
+400001,Power Bracer,,,"Before acting, +1 Attack and +1 HP",,"""true""",3,,,2,config/item/xddj/icon_llhw.png,,,,<40000100>,
+400101,Macho Brace,,20,【On Victory】: Permanently +1 Attack and +1 HP,,"""true""",3,3,3,2,config/item/icon_qzdlq.png,,TRUE,,<40010100>,<【On Victory】>
+400102,Adamant Orb,,20,,,"""true""",3,8,,2,config/item/xddj/icon_bjbz.png,,TRUE,,,
+400103,Dubious Disc,,20,,,"""true""",3,,8,2,config/item/xddj/icon_kybd.png,,TRUE,,,
+400104,Prism Scale,,20,,,"""true""",3,,,2,config/item/xddj/icon_mllp.png,8,TRUE,,,
+400105,Whipped Dream,,20,"At battle start, 【Stun】 self",,"""true""",3,,,2,config/item/xddj/icon_pfny.png,12,TRUE,,<40010500>,<【Stun】>
+400106,Power Bracer,,20,"Before acting, +2 Attack and +1 HP",,"""true""",3,2,4,2,config/item/xddj/icon_llhw.png,,TRUE,,<40010600>,
+400107,Reaper Cloth,,20,【Stealth】,,"""true""",3,4,4,2,config/item/xddj/icon_ljzb.png,,TRUE,,<40010700>,<【Stealth】>
+400201,Thick Club,,20,"After attacking, 【Stun】 self",,"""true""",4,10,10,3,config/item/xddj/icon_cgt.png,,TRUE,,<40020100>,<【Stun】>
+400202,Choice Band,,,Treat the leftmost enemy as 【Rival】,,"""true""",4,6,6,3,config/item/xddj/icon_jjtj.png,,TRUE,,<40020200>,<【Rival】>
+400203,Primordial Stone,,,【Near Death】: Deal 10 skill damage to a random enemy,,"""true""",4,,10,3,config/item/xddj/icon_hyzs.png,,TRUE,,<40020300>,<【Near Death】>
+400204,Full Incense,,,"After attacking, if you took no HP loss, permanently +2 Attack and +2 HP",,"""true""",4,,,3,config/item/xddj/icon_bfxx.png,6,TRUE,,<40020400>,
+400205,Focus Sash,,,"When knocked out, 【Summon】 a 1-star copy of self",,"""true""",4,,6,3,config/item/xddj/icon_qspd.png,,TRUE,,<40020500>,<【Summon】>
+400206,Bulb,,,"At prep phase end, permanently gain +2 Attack and +2 HP",,"""true""",4,4,4,3,config/item/xddj/icon_qg.png,,TRUE,,<40020600>,
+400207,Choice Specs,,,Treat the nearest enemy as 【Rival】,,"""true""",4,6,6,3,config/item/xddj/icon_jjyj.png,,TRUE,,<40020700>,<【Rival】>
+400208,Lustrous Orb,,,【Shield】,,"""true""",4,,8,3,config/item/xddj/icon_bybz.png,,TRUE,,<40020800>,<【Shield】>
+400209,Quick Claw,,,"Before being attacked, deal 5 skill damage to the attacker first",,"""true""",4,4,4,3,config/item/xddj/icon_xzzz.png,,TRUE,,<40020900>,
+400210,Scope Lens,,,【Brute Force】,,"""true""",4,6,6,3,config/item/xddj/icon_jdj.png,,TRUE,,<40021000>,<【Brute Force】>
+400211,Gold Teeth,,,【Near Death】: Gain 1 gold,,"""true""",4,,6,3,config/item/xddj/icon_jjy.png,,TRUE,,<40021100>,<【Near Death】>
+400301,Rainbow Feather,,,"When 【Heal】ed, deal 10 damage to a random enemy",,"""true""",5,10,,4,config/item/xddj/icon_hszy.png,,TRUE,,<40030100>,<【Heal】>
+400302,Leftovers,,,"After acting, 【Heal】 20 damage from self",,"""true""",5,4,4,4,config/item/xddj/icon_csddx.png,,TRUE,,<40030200>,<【Heal】>
+400303,Magmarizer,,,【Brute Force】\n【Break】: Permanently +3 Attack and +3 HP,,"""true""",5,,10,4,config/item/xddj/icon_ryzfq.png,,TRUE,,<40030300>,<【Brute Force】;【Break】>
+400304,King's Rock,,,+1 action per round,,"""true""",5,5,5,4,config/item/xddj/icon_wzzz2.png,,TRUE,,<40030400>,
+400305,Mental Herb,,,"When 【Stun】 or 【Charm】 is applied, remove it",,"""true""",5,6,6,4,config/item/xddj/icon_xlxc.png,,TRUE,,<40030500>,<【Stun】;【Charm】>
+400306,Focus Band,,,"When knocked out, 【Summon】 a copy of self",,"""true""",5,,8,4,config/item/xddj/icon_qstj.png,,TRUE,,<40030600>,<【Summon】>
+400307,Soft Sand,,,【Reactive】: Permanently +2 Attack and +2 HP,,"""true""",5,6,6,4,config/item/xddj/icon_rrsz.png,,TRUE,,<40030700>,<【Reactive】>
+400308,Silk Scarf,,,【On Defeat】: Return the holder to hand,,"""true""",5,8,4,4,config/item/xddj/icon_jjwj.png,,TRUE,,<40030800>,<【On Defeat】>
+400309,Spell Tag,,,【Phantom】\n【Near Death】: A random enemy gains this item's effect,,"""true""",5,,8,4,config/item/xddj/icon_zzzf.png,,TRUE,,<40030900>,<【Phantom】;【Near Death】>
+400310,Dragon Fang,,,【Splash】,,"""true""",5,5,8,4,config/item/xddj/icon_ly.png,,TRUE,,<40031000>,<【Splash】>
+400311,Hard Stone,,,【Fortified Armor】,,"""true""",5,,7,4,config/item/xddj/icon_yst.png,1,TRUE,,<40031100>,<【Fortified Armor】>
+400312,Black Belt,,,【Combo】: Trigger your 【Break】 effect once,,"""true""",5,4,4,4,config/item/xddj/icon_qshd.png,,TRUE,,<40031200>,<【Combo】;【Break】>
+400313,Metal Coat,,,"【Guard】\nAt prep phase end, permanently gain +4 Armor",,"""true""",5,4,4,4,config/item/xddj/icon_jsm.png,4,TRUE,,<40031300>,<【Guard】>
+400314,Fairy Memory,,,"When 【Heal】ed, store the heal amount\n【Near Death】: Deal skill damage to all enemies equal to stored heal",,"""true""",5,,,4,config/item/xddj/icon_yjccq.png,,TRUE,,<40031400>,<【Heal】;【Near Death】>
+400315,Power Belt,,,"【First Strike】: 【Stun】 self; when 【Stun】 ends, gain 【Brute Force】, 【Ambush】, and 【Cleave】",,"""true""",5,,,4,config/item/xddj/icon_llfz.png,,TRUE,,<40031500>,<【First Strike】;【Stun】;【Brute Force】;【Ambush】;【Cleave】>
+400316,Odd Incense,,,【Special Technique】: Halve your Attack; inflict 【Toxic】 on a random enemy,,"""true""",5,,,4,config/item/xddj/icon_qyxx.png,,TRUE,,<40031600>,<【Special Technique】;【Toxic】>
+400317,Mystic Water,,,"When an ally is knocked out, permanently gain +1 Attack and +1 HP",,"""true""",5,,,4,config/item/xddj/icon_xzsd.png,,TRUE,,<40031700>,
+400318,Battle Communicator,,,【Near Death】: Play a random Pokémon from hand (does not trigger 【On Play】),,"""true""",5,,,4,config/item/xddj/icon_qxyxtxq.png,,TRUE,,<40031800>,<【Near Death】;【On Play】>
+400319,Punching Glove,,,"When attacking a target with lower Attack than you, take no counter",,"""true""",5,,,4,config/item/xddj/icon_thqt.png,,TRUE,,<40031900>,
+400401,Ash's Hat,,,【Break】: Your Pokémon permanently gain +3 Attack and +3 HP,,"""true""",6,,,5,config/item/xddj/icon_pkqdmz.png,,TRUE,,<40040100>,<【Break】>
+400402,Rusted Sword,,,"+1 action per round\nBefore acting, +5 Attack and +5 HP",,"""true""",6,5,5,5,config/item/xddj/icon_bxzj.png,,TRUE,,<40040200>,
+400403,Blazing Claw,,,【Brute Force】\n【First Strike】: Gain 1 action,,"""true""",6,,16,5,config/item/xddj/icon_lyzz.png,,TRUE,,<40040300>,<【Brute Force】;【First Strike】>
+400404,Rusted Shield,,,【Shield】\n【Guard】\n【Shield Counter】,,"""true""",6,,10,5,config/item/xddj/icon_bxzd.png,,TRUE,,<40040400>,<【Shield】;【Guard】;【Shield Counter】>
+400405,Power Band,,,"Before acting, 【Destroy】 the adjacent unit on the right and gain all its stats",,"""true""",6,5,5,5,config/item/xddj/icon_gnhw.png,,TRUE,,<40040500>,<【Destroy】>
+400406,Power Bracelet,,,Your 【Break】 effect triggers one extra time,,"""true""",6,,,5,config/item/xddj/icon_qlsh.png,,TRUE,,<40040600>,<【Break】>
+400407,Poke Flute,,,【Special Technique】: Halve your Attack; halve a random enemy's Attack and 【Stun】 it,,"""true""",6,,,5,config/item/xddj/icon_bkmzd.png,,TRUE,,<40040700>,<【Special Technique】;【Stun】>
+400408,Resonant Element,,,"【Rally】: When an attacker triggers 【Rally】, they also gain the holder's stats",,"""true""",6,,,5,config/item/xddj/icon_gmys.png,,TRUE,,<40040800>,<【Rally】>
+400409,Dynamax Band,,,Your stats are doubled,,"""true""",6,,,5,config/item/xddj/icon_jjwd.png,,TRUE,,<40040900>,
+400410,Professor's Mask,,,Immune to skill damage and 【Destroy】,,"""true""",6,,,5,config/item/xddj/icon_bsdmz.png,,TRUE,,<40041000>,<【Destroy】>
+400411,Jewel Bracelet,,,【Special Technique】: Halve your Attack; deal skill damage equal to half that value to a random enemy and gain 2 gold,,"""true""",6,,,5,config/item/xddj/icon_bssz.png,,TRUE,,<40041100>,<【Special Technique】>
+400412,Safety Goggles,,,Immune to negative 【Status】,,"""true""",6,,,5,config/item/xddj/icon_fchmj.png,,TRUE,,<40041200>,<【Status】>
+400414,Treasure Sensor,,,【On Defeat】: Gain 1 random gear card,,"""true""",6,,,5,config/item/xddj/icon_tbq.png,,TRUE,,<40041400>,<【On Defeat】>
+400415,Reveal Glass,,,【Near Death】: Clear all positive 【Status】 from the damage source,,"""true""",6,,,5,config/item/xddj/icon_xxj.png,,TRUE,,<40041500>,<【Near Death】>
+400416,Mystery Necklace,,,"After acting, trigger your 【On Play】 effect",,"""true""",6,,,5,config/item/xddj/icon_smxl.png,,TRUE,,<40041600>,<【On Play】>
+400417,Samurai Helmet,,,"【Guard】\nAfter being attacked, +8 Attack and +8 Armor",,"""true""",6,,,5,config/item/xddj/icon_wstk.png,,TRUE,,<40041700>,
+400418,Mask of Pain,,,【Special Technique】: Deal 1 【Armor Shred】 to all enemies\n【Aura】: 【Armor Shred】 on the field is not cleared automatically,,"""true""",6,,,5,config/item/xddj/icon_tkmj.png,,TRUE,,<40041800>,<【Special Technique】;【Armor Shred】;【Aura】>
+400419,Gracidea Flower,,,Holder's Attack always equals its HP,,"""true""",6,,,5,config/item/xddj/icon_glxdyh.png,,TRUE,,<40041900>,
+400420,Vanishing Crown,,,【First Strike】/【Near Death】: All allied Pokémon gain 【Stealth】,,"""true""",6,,,5,config/item/xddj/icon_smwg.png,,TRUE,,<40042000>,<【First Strike】;【Near Death】;【Stealth】>
+400421,Flame Orb,,,【Special Technique】: Deal skill damage to a random enemy equal to your Attack,,"""true""",6,,,5,config/item/xddj/icon_hybz.png,,TRUE,,<40042100>,<【Special Technique】>
+400422,Swift Bell,,,【Rally】: Self gains 1 action,,"""true""",6,,,5,config/item/xddj/icon_gjld.png,,TRUE,,<40042200>,<【Rally】>
+400423,Sturdy Bell,,,【Rally】: Self gains +8 Armor\n【Fortified Armor】,,"""true""",6,,,5,config/item/xddj/icon_fyld.png,,TRUE,,<40042300>,<【Rally】;【Fortified Armor】>
+400424,Bond Bell,,,【Rally】: Self and attacker gain +5 HP,,"""true""",6,,,5,config/item/xddj/icon_kzld.png,,TRUE,,<40042400>,<【Rally】>
+400425,Ghost Hand Gloves,,,"While 【Stealth】 is active, gain 【Ambush】\n【Break】: Gain 【Stealth】",,"""true""",6,,,5,config/item/xddj/icon_mxd.png,,TRUE,,<40042500>,<【Stealth】;【Ambush】;【Break】>
+400426,Salty Fish Spine,,,"During battle, when other Pokémon enter, they gain +N Attack and +N HP (N = holder's matching stat)",,"""true""",6,,,5,config/item/xddj/icon_xylc.png,,TRUE,,<40042600>,
+400427,Ingenious Soul Core,,,"After being attacked at full HP, +20 Armor, then grant 1 action to an allied Pokémon",,"""true""",6,,,5,config/item/xddj/icon_mjyn.png,,TRUE,,<40042700>,
+400428,Lunar Flute,,,Your 【Near Death】 effect triggers one extra time,,"""true""",6,,,5,config/item/xddj/icon_lnyl.png,,TRUE,,<40042800>,<【Near Death】>
+400429,Chaos Magicube,,,【Special Technique】: Deal 100 skill damage to self and a random enemy,,"""true""",6,,,5,config/item/xddj/icon_zzmq.png,,TRUE,,<40042900>,<【Special Technique】>
+400430,Ultranecrozium Z,,,"When losing HP, deal 1 skill damage to a random enemy; damage doubles each time this triggers",,"""true""",6,,,5,config/item/xddj/icon_jjlj.png,,TRUE,,<40043000>,
+400431,Gene Miasma,,,【Special Technique】: 【Summon】 one of your 【Phantom】 copies,,"""true""",6,,,5,config/item/xddj/icon_symh.png,,TRUE,,<40043100>,<【Special Technique】;【Summon】;【Phantom】>

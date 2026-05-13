@@ -1,0 +1,10 @@
+﻿变量名,name,subName,needRefresh,languages
+默认值,"""""","""""",FALSE,<cn>
+ID,成就类型名称,副标题,是否需要刷新,语言区域<lang>
+1,General Achievements,GENERAL,,<cn;tw;en;en_us;en_eu;kr>
+2,Blaine Achievements,XIABO,,<cn;tw;en;en_us;en_eu;kr>
+3,Jasmine Achievements,AMI,,<cn;tw;en;en_us;en_eu;kr>
+4,Morty Achievements,SONGYE,,<cn;tw;en;en_us;en_eu;kr>
+5,Valerie Achievements,MAXIU,,
+6,Candice Achievements,XIAOSONG,,
+999,Season Achievements,SEASON,TRUE,<cn;tw;en;en_us;en_eu;kr>

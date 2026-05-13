@@ -1,0 +1,10 @@
+﻿变量名,name,icon
+默认值,"""""",""""""
+ID,成就分类名称,成就分类图标
+1,Growth,city/task/achievement/icon_rucz.png
+2,Collection,city/task/achievement/icon_jlsj.png
+3,Training,city/task/achievement/icon_jlpy.png
+4,Dungeon,city/task/achievement/icon_fbhd.png
+5,Arena,city/task/achievement/icon_jjtz.png
+6,Social,city/task/achievement/icon_sj.png
+7,Hidden,
