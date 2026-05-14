@@ -89,30 +89,30 @@ ID,名称,备注,类型(1-属性加成;2-激活被动技能;3-招募),生效类�
 5006,Permanent Badge,,2,2,"#C0xF76B45##L10#【Permanent Badge】#L0##C0x5B545B#During battle, a random allied Pokémon starts with full Rage.",2,5001,,,<4002006>,,2,,4,5,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
 5007,Permanent Badge,,2,2,"#C0xF76B45##L10#【Permanent Badge】#L0##C0x5B545B#During battle, a random allied Pokémon starts with Ho-Oh's Blessing.",2,5001,,,<4002007>,,2,,6,5,1,activity/brave_challenge/xz_icon/icon_yztz_fy.png
 5008,Permanent Badge,,2,2,"#C0xF76B45##L10#【Permanent Badge】#L0##C0x5B545B#During battle, a random allied Pokémon gains control immunity.",2,5001,,,<4002008>,,2,,8,5,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5051,Mighty Recovery,,2,,"On the first mega-turn,all unitsrestores50%HP",2,5051,,,<4002051>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
-5052,Mighty Recovery,,2,,"At the end of each mega-turn,all unitsrestores10%HP",2,5051,,,<4002052>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
+5051,Mighty Recovery,,2,,"On the first mega-turn, all units restore 50% HP.",2,5051,,,<4002051>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
+5052,Mighty Recovery,,2,,"At the end of each mega-turn, all units restore 10% HP.",2,5051,,,<4002052>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
 5053,Mighty Recovery,,2,,"On the first mega-turn, all units restore 30% HP and 300 Rage.",2,5051,,,<4002053>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
-5054,Mighty Recovery,,2,,All allied units have a 30% chance to revive immediately after death,2,5051,,,<4002054>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
-5061,Mighty Recovery,,2,,"On the first mega-turn,all unitsrestores50%HP",2,5051,,,<4002061>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
-5062,Mighty Recovery,,2,,"At the end of each mega-turn,all unitsrestores10%HP",2,5051,,,<4002062>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
+5054,Mighty Recovery,,2,,All allied units have a 30% chance to revive immediately after fainting.,2,5051,,,<4002054>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_jx.png
+5061,Mighty Recovery,,2,,"On the first mega-turn, all units restore 50% HP.",2,5051,,,<4002061>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
+5062,Mighty Recovery,,2,,"At the end of each mega-turn, all units restore 10% HP.",2,5051,,,<4002062>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
 5063,Mighty Recovery,,2,,"On the first mega-turn, all units restore 30% HP and 300 Rage.",2,5051,,,<4002063>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
-5064,Mighty Recovery,,2,,All allied units have a 30% chance to revive immediately after death,2,5051,,,<4002064>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
-5071,Mighty Recovery,,2,,"On the first mega-turn,all unitsrestores50%HP",2,5051,,,<4002071>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5072,Mighty Recovery,,2,,"At the end of each mega-turn,all unitsrestores10%HP",2,5051,,,<4002072>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5064,Mighty Recovery,,2,,All allied units have a 30% chance to revive immediately after fainting.,2,5051,,,<4002064>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_gj.png
+5071,Mighty Recovery,,2,,"On the first mega-turn, all units restore 50% HP.",2,5051,,,<4002071>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5072,Mighty Recovery,,2,,"At the end of each mega-turn, all units restore 10% HP.",2,5051,,,<4002072>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
 5073,Mighty Recovery,,2,,"On the first mega-turn, all units restore 30% HP and 300 Rage.",2,5051,,,<4002073>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5074,Mighty Recovery,,2,,All allied units have a 30% chance to revive immediately after death,2,5051,,,<4002074>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5101,Fusion Riddle I,,1,,Activate Opening Lockout Sprite: Latias,2,5101,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5102,Fusion Riddle II,,1,,Activate Opening Lockout Sprite: Latios,2,5101,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5103,Land's Wrath,,1,,Activate Opening Lockout Pokémon: Groudon,2,5101,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5111,Super Luck,,1,,Activate Opening Lockout Sprite: Jirachi,2,5111,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5112,Gratitude,,1,,Activate Opening Lockout Sprite: Shaymin,2,5111,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5113,Spatial Twist,,1,,Activate Opening Lockout Sprite: Hoppa Confined,2,5111,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5121,Time Spiral,,1,,Activate Opening Lockout Sprite: Dialga,2,5121,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5122,Hidden Realm,,1,,Activate Opening Lockout Pokémon: Palkia,2,5121,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5123,Overclock,,1,,Activate Opening Lockout Sprite: Reshiram,2,5121,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5131,Miracle Eye,,1,,Activate Opening Lockout Pokémon: Mewtwo,2,5131,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5132,Primordial Lineage,,1,,Activate Opening Lockout Pokémon: Groudon,2,5131,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
-5133,Frozen Domain,,1,,Activate Opening Lockout Pokémon: Kyurem,2,5131,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5074,Mighty Recovery,,2,,All allied units have a 30% chance to revive immediately after fainting.,2,5051,,,<4002074>,,,,,10,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5101,Fusion Riddle I,,1,,Activate starting locked Pokémon: Latias,2,5101,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5102,Fusion Riddle II,,1,,Activate starting locked Pokémon: Latios,2,5101,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5103,Land's Wrath,,1,,Activate starting locked Pokémon: Groudon,2,5101,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5111,Super Luck,,1,,Activate starting locked Pokémon: Jirachi,2,5111,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5112,Gratitude,,1,,Activate starting locked Pokémon: Shaymin,2,5111,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5113,Spatial Twist,,1,,Activate starting locked Pokémon: Hoppa Confined,2,5111,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5121,Time Spiral,,1,,Activate starting locked Pokémon: Dialga,2,5121,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5122,Hidden Realm,,1,,Activate starting locked Pokémon: Palkia,2,5121,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5123,Overclock,,1,,Activate starting locked Pokémon: Reshiram,2,5121,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5131,Miracle Eye,,1,,Activate starting locked Pokémon: Mewtwo,2,5131,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5132,Primordial Lineage,,1,,Activate starting locked Pokémon: Groudon,2,5131,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
+5133,Frozen Domain,,1,,Activate starting locked Pokémon: Kyurem,2,5131,{25=0},,,,2,,2,50,1,activity/brave_challenge/xz_icon/icon_yztz_fz.png
 10001,Psychic,,2,,Chance to trigger when Alakazam is present: Entry Grants Petrify Opposite Random Target for 2 turns,1,10001,,,<4011001>,,1,10263,1,10,,activity/brave_challenge/xz_icon/icon_yztz_kz.png
 10002,Striker's Gambit,,2,,Chance to trigger when Scizor is present: Small skill units that do not kill can get an extra action,1,10001,,,<4011002>,,1,10572,1,10,,activity/brave_challenge/xz_icon/icon_yztz_gj.png
 10003,High Voltage,,2,,Electivire has a chance to trigger when present: Front row teammates (other than themselves) are attacked or attacked to Electivire's battery,1,10001,,,<4011003>,,1,10593,1,10,,activity/brave_challenge/xz_icon/icon_yztz_gj.png
